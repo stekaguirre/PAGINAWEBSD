@@ -461,24 +461,241 @@ td,th{
 
 /*NETFLIX*/
 .bodyNetflix{
+    background-color: red;
+    
+}
+.headerNetflix{
+    width: 100%;
+    height: 500px;
+    margin-top: 40px;
     background: url(imagenesEditadas/netflix.jpg);
     background-size: cover;
 }
 
+.mainNetflix{
+    background-color: blanchedalmond;
+}
+.tituloPrincipalNetflix{
+    background-color: rgb(231, 44, 191);
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+    color: red;
+}
+.sectionVideoNetflix{
+        width: 560px;
+        padding: 5px;
+        margin: 5px 0 5px 20%;
+        /*background-color: rgb(13, 230, 230);*/
+    
+}
+.footerNetflix{
+    width: 1110px;
+    padding: 5px;
+    margin: 10px 0px 10px 10%;
+    font-size: 10px;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+.footerNetflix ul{
+    width: 850px;
+    background-color: rgb(201, 108, 55);
+    padding: 10px;
+    margin: 00px 0px 0px 110px;
+}
+.footerNetflix li{
+    display: inline-block;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*DISNEY PLUS*/
+
 
 
 .bodyDisney{
+    background-color:blue;
+    
+}
+.headerDisney{
+    width: 100%;
+    height: 500px;
+    margin-top: 40px;
     background: url(imagenesEditadas/disney.jpg);
     background-size: cover;
 }
 
+.mainDisney{
+    background-color: blanchedalmond;
+}
+.tituloPrincipalDisney{
+    background-color: rgb(231, 44, 191);
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+    color: red;
+}
+.sectionVideoDisney{
+        width: 560px;
+        padding: 5px;
+        margin: 5px 0 5px 20%;
+        /*background-color: rgb(13, 230, 230);*/
+    
+}
+.footerDisney{
+    width: 1110px;
+    padding: 5px;
+    margin: 10px 0px 10px 10%;
+    font-size: 10px;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+.footerDisney ul{
+    width: 850px;
+    background-color: rgb(201, 108, 55);
+    padding: 10px;
+    margin: 00px 0px 0px 110px;
+}
+.footerDisney li{
+    display: inline-block;
+    background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*AMAZON PRIME*/
+
+
 
 .bodyAmazon{
+    background-color:white;
+    
+}
+.headerAmazon{
+    width: 100%;
+    height: 500px;
+    margin-top: 40px;
     background: url(imagenesEditadas/amazon.jpg);
     background-size: cover;
 }
 
+.mainAmazon{
+    background-color: rgb(206, 134, 26);
+}
+.tituloPrincipalAmazon{
+    background-color: rgb(231, 44, 191);
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+    color: red;
+}
+.sectionVideoAmazon{
+        width: 560px;
+        padding: 5px;
+        margin: 5px 0 5px 20%;
+        /*background-color: rgb(13, 230, 230);*/
+    
+}
+.footerAmazon{
+    width: 1110px;
+    padding: 5px;
+    margin: 10px 0px 10px 10%;
+    font-size: 10px;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+.footerAmazon ul{
+    width: 850px;
+    background-color: rgb(201, 108, 55);
+    padding: 10px;
+    margin: 00px 0px 0px 110px;
+}
+.footerAmazon li{
+    display: inline-block;
+    background-color: white;
+}
+
+
+
+
+
+
+/*HBO MAX*/
+
+
+
 .bodyHbo{
+    background-color:rgb(192, 230, 24);
+    
+}
+.headerHbo{
+    width: 1300px;
+    height: 650px;
+    margin-top: 40px;
     background: url(imagenesEditadas/hbo.jpg);
     background-size: cover;
 }
+
+.mainHbo{
+    background-color: blanchedalmond;
+}
+.tituloPrincipalHbo{
+    background-color: rgb(231, 44, 191);
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+    color: red;
+}
+.sectionVideoHbo{
+        width: 560px;
+        padding: 5px;
+        margin: 5px 0 5px 20%;
+        /*background-color: rgb(13, 230, 230);*/
+    
+}
+.footerHbo{
+    width: 1110px;
+    padding: 5px;
+    margin: 10px 0px 10px 10%;
+    font-size: 10px;
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+}
+.footerHbo ul{
+    width: 850px;
+    background-color: rgb(201, 108, 55);
+    padding: 10px;
+    margin: 00px 0px 0px 110px;
+}
+.footerHbo li{
+    display: inline-block;
+    background-color: white;
+}
+
