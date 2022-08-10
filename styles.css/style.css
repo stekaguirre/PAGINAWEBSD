@@ -8,27 +8,6 @@
 
 
 
-.headerHome{
-    width: 1110px;
-    margin: 5px 0px 00px 70px;
-    padding: 20px;
-    /*background-color: white;*/
-    
-}
-.sectionCajaHome{
-    width: 1040px;
-    margin: 0px 0px 0px 10px;
-    position: relative;
-    /*background-color: rgb(214, 200, 73);*/
-}
-.listaSectionCajaHome{
-    width: 640px;
-    /*background-color: aqua;*/
-}
-nav .cajaLiHome{
-    color: rgb(235, 21, 21);
-}
-
 
 
 .mainHome{
@@ -235,11 +214,7 @@ nav  .cajaLiProductos{
     padding: 10px 5px 2px 80px;
     background: linear-gradient(white,black);
 }
-nav{
-    position: absolute;
-    top: 110px;
-    right: 60px;
-}
+
 nav li{
     display: inline;
     margin: 0 0 0 25px;
