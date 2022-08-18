@@ -1,26 +1,26 @@
 .headerHome{
-    width: 98%;
-    background-color:yellow;
-    border-color:white;
+    width: 100%;
+    /*background-color:yellow;
+    border-color:black;
     border-width: 2px;
     border-style: solid;
-    border-radius: 50px;
-    margin: 1%;
+    border-radius: 50px;*/
+    
 }
 .sectionCajaHome{
-    width: 97%;
-    background-color: rgb(61, 83, 185);
-    border-color:white;
+    width: 99%;
+    /*background-color: rgb(61, 83, 185);
+    border-color:black;
     border-width: 2px;
     border-style: solid;
     border-radius: 50px;
-    margin: 1% ;
+    margin: 0.5% ;*/
 }
 .logoHome{
     color: black;
 }
 .tituloHeaderHome{
-    background-color: wheat;
+    /*background-color: wheat;*/
     font-weight: bold; 
     font-family: 'Montserrat', sans-serif;
     font-size: 3em;
@@ -31,7 +31,7 @@
 }
 
 .bienvenidaHeaderHome{
-    background-color: beige;
+    /*background-color: beige;*/
     color: rgb(223, 16, 16);
     font-family: 'Montserrat', sans-serif;
     font-size: 3em;
@@ -40,7 +40,7 @@
     margin: 0 0 2% 0;
 }
 .estadoDePaginaPrincipal{
-    background-color: aqua;
+    /*background-color: aqua;*/
     font-size: 10px;
     margin: 0px 0px 8% 43%;
 
@@ -48,12 +48,12 @@
 }
 
 .navSectionCajaHome{
-    background-color: blueviolet;
+    /*background-color: blueviolet;*/
     padding: 10px;
     text-align: center;
 }
 .listaNavSectionCajaHome{
-    background-color: aqua;
+    /*background-color: aqua;*/
     padding: 23px;
 }
 nav .cajaLiHome{

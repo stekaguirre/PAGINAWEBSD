@@ -1,13 +1,15 @@
 .sectionDiferencialesHome{
     width: 80%;
-    background-color:rgb(22, 19, 207);
-    border-color:white;
+    margin: 5% 10% 5% 10%;
+    /*background-color:rgb(22, 19, 207);
+    border-color:black;
     border-width: 2px;
     border-style: solid;
     border-radius: 50px;
-    margin: 5% 10% 5% 10%;
+    */
 }
 .tituloDiferencialesHome{
+    /*background-color: aqua;*/
     color: rgb(243, 9, 28);
     font-weight: bold;
     font-size: 2em;
@@ -18,7 +20,7 @@
     width: 100%;
     display: inline-block;
     vertical-align: top;
-    background-color: blueviolet;
+    /*background-color: blueviolet;*/
     margin: 0px 0 5% 0px;
     font-size:1.5em;
     text-align:center;
@@ -26,25 +28,41 @@
 .itemsListaDiferenciales{
     line-height: 1.5;
     margin: 20px;
-    background-color: white;
+    /*background-color: white;*/
 }
 .itemsListaDiferenciales:before{
     content: "✸";
 }
-.itemsListaDiferenciales:first-child{/*pintar el primer item*/
+/*.itemsListaDiferenciales:first-child{/*pintar el primer item
     font-weight: bold;
 }
-.itemsListaDiferenciales:last-child{/*pintar el ultimo item*/
+.itemsListaDiferenciales:last-child{/*pintar el ultimo item
     color: rgb(228, 15, 15);
 }
-.itemsListaDiferenciales:nth-child(2){/*pintar el item por su numero de lista*/
+.itemsListaDiferenciales:nth-child(2){/*pintar el item por su numero de lista
     color: rgb(34, 15, 209);
+}*/
+.itemsListaDiferenciales:nth-child(1){/*pintar el item por su numero de lista*/
+    color: white;
+    font-weight: bold;
+}
+.itemsListaDiferenciales:nth-child(2){/*pintar el item por su numero de lista*/
+    color:white;
+    font-weight: bold;
+}
+.itemsListaDiferenciales:nth-child(3){/*pintar el item por su numero de lista*/
+    color: white;
+    font-weight: bold;
+}
+.itemsListaDiferenciales:nth-child(4){/*pintar el item por su numero de lista*/
+    color:white;
+    font-weight: bold;
 }
 
 
 .imagenesDiferenciales{
     width: 100%;
-    background-color: aqua;
+   /* background-color: aqua;*/
 }
 .imagenDiferenciales2{
     width: 30%;

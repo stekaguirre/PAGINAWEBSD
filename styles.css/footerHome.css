@@ -1,25 +1,34 @@
 .footerHome{
-    width: 98%;
-    background-color:yellow;
+    width: 100%;
+    /*background-color:yellow;
     border-color:white;
     border-width: 2px;
     border-style: solid;
     border-radius: 50px;
-    margin: 1%;
-    text-align: center;
+    text-align: center;*/
+}
+.fondo{
+    width: 100%;
+    height: 350px;
+    margin-top: 2%;
+    margin-left: 0.5%;
 }
 .footerHome ul{
-    width: 850px;
-    background-color: rgb(201, 108, 55);
+    width: 650px;
+    /*background-color: rgb(201, 108, 55);*/
     padding: 10px;
-    margin: 00px 0px 0px 16%;
+    margin: 00px 0px 0px 38%;
+}
+.textoRedesHome{
+    color:white;
+    margin-left:40%;
 }
 .footerHome li{
     display: inline-block;
 }
-.fondo{
-    width: 80%;
-    height: 350px;
-    padding-left: 3%;
-    margin-top: 2%;
+
+.copyrightHome{
+    color:white;
+    margin-left:40%;
+    
 }

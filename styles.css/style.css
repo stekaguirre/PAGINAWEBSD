@@ -4,17 +4,6 @@
 
 
 
-
-.footerHo{
-    width: 1110px;
-    padding: 5px;
-    margin: 5px 0px 5px 70px;
-    font-size: 10px;
-    text-align: center;
-    /*background-color: blueviolet;*/
-    color: white;
-}
-
 @media screen and (max-width:480px){
     .bodyHome{
         background: linear-gradient(white,black);

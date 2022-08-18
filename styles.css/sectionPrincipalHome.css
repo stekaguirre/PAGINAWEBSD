@@ -1,15 +1,16 @@
 .sectionPrincipalHome{
     width: 80%;
-    background-color:rgb(22, 19, 207);
-    border-color:white;
+    margin: 5% 10% 5% 10%;
+    /*background-color:rgb(22, 19, 207);
+    border-color:black;
     border-width: 2px;
     border-style: solid;
-    border-radius: 50px;
-    margin: 5% 10% 5% 10%;
+    border-radius: 50px;*/
+    
     
 }
 .tituloPrincipalHome{
-    background-color: aqua;
+    /*background-color: aqua;*/
     color: rgb(243, 9, 28);
     font-weight: bold;
     font-size: 2em;
@@ -17,7 +18,7 @@
     margin: 5% 0 10% 0;
 }
 .parrafosSectionPrincipalHome {
-    background-color: aquamarine;
+    /*background-color: aquamarine;*/
     font-size: 2em;
     font-weight: bold;
     margin: 0% 10% 4% 10%;
