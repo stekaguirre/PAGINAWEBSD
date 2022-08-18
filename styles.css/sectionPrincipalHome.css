@@ -1,0 +1,26 @@
+.sectionPrincipalHome{
+    width: 100%;
+    background-color:rgb(22, 19, 207);
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    margin: 5% 0% 0 0%;
+}
+.tituloPrincipalHome{
+    color: rgb(243, 9, 28);
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    margin: 5% 0 10% 0;
+}
+.parrafosSectionPrincipalHome {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0% 10% 4% 10%;
+
+}
+
+.portada{
+    margin: 0 0 0 35%;
+}

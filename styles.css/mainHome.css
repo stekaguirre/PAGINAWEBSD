@@ -1,0 +1,8 @@
+.mainHome{
+    width: 100%;
+    background-color:red;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+}

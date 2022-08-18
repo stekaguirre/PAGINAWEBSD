@@ -1,0 +1,56 @@
+.sectionDiferencialesHome{
+    width: 100%;
+    background-color: rgb(37, 154, 221);
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    margin:5% 0 0 0;
+}
+.tituloDiferencialesHome{
+    color: rgb(243, 9, 28);
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+    margin: 5% 0 5% 0;
+}
+.listaDiferenciales {
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    background-color: blueviolet;
+    margin: 0px 0 5% 0px;
+    font-size:1.5em;
+    text-align:center;
+}
+.itemsListaDiferenciales{
+    line-height: 1.5;
+    margin: 20px;
+    background-color: white;
+}
+.itemsListaDiferenciales:before{
+    content: "✸";
+}
+.itemsListaDiferenciales:first-child{/*pintar el primer item*/
+    font-weight: bold;
+}
+.itemsListaDiferenciales:last-child{/*pintar el ultimo item*/
+    color: rgb(228, 15, 15);
+}
+.itemsListaDiferenciales:nth-child(2){/*pintar el item por su numero de lista*/
+    color: rgb(34, 15, 209);
+}
+
+
+.imagenesDiferenciales{
+    width: 100%;
+    background-color: aqua;
+}
+.imagenDiferenciales2{
+    width: 30%;
+    margin-left:12%;
+}
+.imagenDiferenciales3{
+    width:35%;
+    margin-left:12%;
+}
