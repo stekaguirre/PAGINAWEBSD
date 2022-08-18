@@ -5,7 +5,7 @@
 
 
 
-.footerHome{
+.footerHo{
     width: 1110px;
     padding: 5px;
     margin: 5px 0px 5px 70px;
@@ -14,20 +14,7 @@
     /*background-color: blueviolet;*/
     color: white;
 }
-.footerHome ul{
-    width: 850px;
-    /*background-color: rgb(201, 108, 55);*/
-    padding: 10px;
-    margin: 00px 0px 0px 110px;
-}
-.footerHome li{
-    display: inline-block;
-}
-#pie{
-    width: 80%;
-    height: 350px;
-    padding-left: 10%;
-}
+
 @media screen and (max-width:480px){
     .bodyHome{
         background: linear-gradient(white,black);

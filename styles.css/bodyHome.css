@@ -1,4 +1,11 @@
 .bodyHome{
-    background: linear-gradient(white,black);
+    width:1320px;
+    background-color: black;
+    /*background: linear-gradient(white,black);*/
     font-family: 'Montserrat', sans-serif;
+    margin: 1%;
+    border-color:white;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50px;
 }
