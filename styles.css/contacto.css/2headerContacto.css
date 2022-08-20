@@ -1,0 +1,87 @@
+.headerContacto{
+    width: 100%;
+    background-color:yellow;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50px;
+    
+}
+.sectionCajaContacto{
+    width: 99%;
+    background-color: rgb(61, 83, 185);
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50px;
+    margin: 0.5% ;
+}
+.logoContacto{
+    color: black;
+}
+.tituloHeaderContacto{
+    /*background-color: wheat;*/
+    font-weight: bold; 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    margin: -4% 0px 2% 25%;
+}
+
+.bienvenidaHeaderContacto{
+    /*background-color: beige;*/
+    color: rgb(223, 16, 16);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    margin: 0 0 2% 0;
+}
+.estadoDePaginaPrincipalContacto{
+    /*background-color: aqua;*/
+    font-size: 10px;
+    margin: 0px 0px 8% 43%;
+
+    
+}
+
+.navSectionCajaContacto{
+    /*background-color: blueviolet;*/
+    padding: 10px;
+    text-align: center;
+}
+.listaNavSectionCajaContacto{
+    /*background-color: aqua;*/
+    padding: 23px;
+}
+nav a:hover{
+    color: blue;
+    text-decoration: underline;
+}
+
+
+nav .cajaLiContacto{
+    color: rgb(235, 21, 21);
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 25px;
+   
+}
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+    text-decoration: none;
+    background: rgb(217, 217, 223);
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+    margin: 0px 0px 0px 0px;
+    
+}

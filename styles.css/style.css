@@ -101,84 +101,8 @@
 
 
 /*contacto*/
-.bodyContacto{
-    background: linear-gradient(white,black);
-    font-family: 'Montserrat', sans-serif;
-}
 
 
-.headerContacto{
-    width: 1110px;
-    margin: 10px 0px 00px 70px;
-    padding: 70px;
-    background-color: rgb(64, 51, 185);
-}
-.sectionCajaContacto{
-    width: 1040px;
-    margin: 0px 0px 0px 10px;
-    position: relative;
-    background-color: rgb(230, 15, 62);
-}
-nav  .cajaLiContacto{
-    color: red;
-}
-
-
-.mainContacto{
-    width: 1140px;
-    position: relative;
-    margin: 5px 0px 10px 9%;
-    padding: 5px;
-    background-color: white;
-}
-form{
-    padding: 5px;
-    margin: 10px 0px 20px 0;
-    background-color: blue;
-}
-form label, form legend{
-    display: block;
-    font-size: 20px;
-    margin: 0 0 10px;
-}
-.inputPadron{
-    display: block;
-    margin: 0 0 20px;
-    padding: 10px 20px;
-    width: 50%;
-}
-.checkbox{
-    margin: 20px 0;
-}
-.enviar{
-    width: 20%;
-    padding: 15px 0;
-    font-size: 18px;
-    font-weight: bold;
-    color: white;
-    background: blue;
-    border: none;
-    border-radius: 20px;
-    transition: 1s all;
-    cursor: pointer;
-
-}
-.enviar:hover{
-    background: black;
-    transform: scale(1.2) rotate(2deg);
-}
-table{
-    margin: 20px 20px 0 40%;
-}
-thead{
-    background: blue;
-    color: white;
-    font-weight: bold;
-}
-td,th{
-    border: 1px solid black;
-    padding: 15px 15px 15px 15px;
-}
 
 
 .footerContacto{

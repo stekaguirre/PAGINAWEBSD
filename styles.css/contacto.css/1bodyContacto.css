@@ -1,0 +1,8 @@
+.bodyContacto{
+    background: linear-gradient(white,black);
+    font-family: 'Montserrat', sans-serif;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50px;
+}
