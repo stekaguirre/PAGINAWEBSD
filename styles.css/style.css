@@ -49,73 +49,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-/*ESTE ES EL CSS PRODUCTOS*/
-
-.bodyProductos{
-    background: linear-gradient(white ,black 80%);
-    font-family: 'Montserrat', sans-serif;
-}
-
-
-.headerProductos{
-    width: 1110px;
-    margin: 5px 0px 00px 70px;
-    padding: 40px;
-    background-color: white;
-}
-.sectionCajaProductos{
-    width: 1040px;
-    margin: 0px 0px 0px 10px;
-    position: relative;
-    background-color: rgb(230, 15, 62);
-}
-nav  .cajaLiProductos{
-    color: red;
-}
-
-.mainProductos{
-    width: 1140px;
-    position: relative;
-    margin: 5px 0px 5px 4%;
-    padding: 10px 5px 2px 80px;
-    background: linear-gradient(white,black);
-}
-
-nav li{
-    display: inline;
-    margin: 0 0 0 25px;
-   
-}
-nav a{
-    text-transform: uppercase;
-    color: black;
-    font-weight: bold;
-    font-size: 24px;
-    text-decoration: none;
-    background: rgb(217, 217, 223);
-    border-color:black;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 20px;
-    padding: 20px 20px 20px 20px;
-    margin: 0px 0px 0px 0px;
-    
-}
-nav a:hover{
-    color: blue;
-    text-decoration: underline;
-}
+/*planes*/
 
 
 
@@ -160,36 +94,6 @@ nav a:hover{
     font-size: 20px;
     font-weight: bold;
 }
-
-
-.footerProductos{
-    width: 1110px;
-    padding: 5px;
-    margin: 5px 0px 5px 70px;
-    font-size: 10px;
-    text-align: center;
-    background-color: blueviolet;
-    color: white;
-}
-.footerProductos ul{
-    width: 850px;
-    background-color: rgb(201, 108, 55);
-    padding: 10px;
-    margin: 00px 0px 0px 110px;
-}
-.footerProductos li{
-    display: inline-block;
-    background-color: white;
-}
-
-
-
-
-
-
-
-
-
 
 
 

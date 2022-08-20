@@ -1,25 +1,25 @@
-.headerHome{
+.headerPlanes{
     width: 100%;
-    /*background-color:yellow;
-    border-color:black;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 50px;*/
-    
-}
-.sectionCajaHome{
-    width: 99%;
-    /*background-color: rgb(61, 83, 185);
+    background-color:yellow;
     border-color:black;
     border-width: 2px;
     border-style: solid;
     border-radius: 50px;
-    margin: 0.5% ;*/
+    
 }
-.logoHome{
+.sectionCajaPlanes{
+    width: 99%;
+    background-color: rgb(61, 83, 185);
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50px;
+    margin: 0.5% ;
+}
+.logoPlanes{
     color: black;
 }
-.tituloHeaderHome{
+.tituloHeaderPlanes{
     /*background-color: wheat;*/
     font-weight: bold; 
     font-family: 'Montserrat', sans-serif;
@@ -30,7 +30,7 @@
     margin: -4% 0px 2% 25%;
 }
 
-.bienvenidaHeaderHome{
+.bienvenidaHeaderPlanes{
     /*background-color: beige;*/
     color: rgb(223, 16, 16);
     font-family: 'Montserrat', sans-serif;
@@ -39,7 +39,7 @@
     text-align: center;
     margin: 0 0 2% 0;
 }
-.estadoDePaginaPrincipal{
+.estadoDePaginaPrincipalPlanes{
     /*background-color: aqua;*/
     font-size: 10px;
     margin: 0px 0px 8% 43%;
@@ -47,15 +47,42 @@
     
 }
 
-.navSectionCajaHome{
+.navSectionCajaPlanes{
     /*background-color: blueviolet;*/
     padding: 10px;
     text-align: center;
 }
-.listaNavSectionCajaHome{
+.listaNavSectionCajaPlanes{
     /*background-color: aqua;*/
     padding: 23px;
 }
-nav .cajaLiHome{
+
+
+
+nav .cajaLiPlanes{
     color: rgb(235, 21, 21);
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 25px;
+   
+}
+nav a{
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 24px;
+    text-decoration: none;
+    background: rgb(217, 217, 223);
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 20px 20px 20px 20px;
+    margin: 0px 0px 0px 0px;
+    
+}
+nav a:hover{
+    color: blue;
+    text-decoration: underline;
 }

@@ -1,11 +1,11 @@
 .sectionPrincipalHome{
     width: 80%;
-    margin: 5% 10% 5% 10%;
-    /*background-color:rgb(22, 19, 207);
+    margin: 15% 10% 5% 10%;
+    /*background-color:rgb(22, 19, 207);*/
     border-color:black;
     border-width: 2px;
     border-style: solid;
-    border-radius: 50px;*/
+    border-radius: 50px;
     
     
 }
@@ -26,5 +26,5 @@
 }
 
 .portada{
-    margin: 0 0 0 35%;
+    margin: 0 0 10% 31%;
 }
