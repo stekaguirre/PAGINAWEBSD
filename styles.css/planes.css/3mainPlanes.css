@@ -5,72 +5,29 @@
     border-width: 2px;
     border-style: solid;
     border-radius: 50px;
-    text-align: center; 
 }
-.tituloPlanes{
+
+.botonWasap{
+    background-color: rgb(12, 219, 40);
+    padding: 20px 20px;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50px;
+    text-decoration: none;
     color: white;
     font-weight: bold;
-    font-size: 2em;
-    margin-top: 10%;
 }
-.sectionPlanes1{
-    width: 96%;
-    background-color: aquamarine;
+.botonMesenger{
+    background-color: rgb(15, 85, 189);
+    padding: 20px 20px;
     border-color:black;
     border-width: 2px;
     border-style: solid;
     border-radius: 50px;
-    margin: 2%;
-    display: flex;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
 }
-.divNetflix{
-    width: 40%;
-    background-color:rgb(224, 228, 31);
-    border-color:black;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 50px; 
-    margin: 4%;
-    text-align: center;
-}
-.divDisney{
-    width: 40%;
-    background-color:rgb(224, 228, 31);
-    border-color:black;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 50px; 
-    margin: 4%;
-    text-align: center;
-    
-}
-.sectionPlanes2{
-    width: 96%;
-    background-color: aquamarine;
-    border-color:black;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 50px;
-    margin: 2%;
-    display: flex;
-}
-.divAmazon{
-    width: 40%;
-    background-color:rgb(224, 228, 31);
-    border-color:black;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 50px; 
-    margin: 4%;
-    text-align: center;
-}
-.divHbo{
-    width: 40%;
-    background-color:rgb(224, 228, 31);
-    border-color:black;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 50px; 
-    margin: 4%;
-    text-align: center;
-}
+
+

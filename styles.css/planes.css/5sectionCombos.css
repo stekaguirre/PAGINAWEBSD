@@ -1,0 +1,50 @@
+
+.sectionCombos{
+    width: 96%;
+    background-color: aquamarine;
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50px;
+    margin: 2%;
+    display: flex;
+}
+.cajasCombos{
+    width: 40%;
+    height: 600px;
+    background-color:rgb(224, 228, 31);
+    border-color:black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 50px; 
+    margin: 4%;
+    text-align: center;
+}
+.tituloPrincipalCombos{
+    background-color: burlywood;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    margin-top: 10%;
+    text-align: center;
+}
+.numeroCombo{
+    background-color: burlywood;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+}
+.tituloCombo{
+    background-color: burlywood;
+    color: brown;
+    font-weight: bold;
+    font-size: 2em;
+}
+.descripcionCombos{
+    font-size:2em;
+    background-color: burlywood;
+    color: blueviolet;
+    font-weight: bold;
+    margin: 10% 0 10% 0;
+}
