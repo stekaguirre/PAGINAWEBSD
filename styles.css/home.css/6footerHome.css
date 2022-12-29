@@ -26,6 +26,7 @@
 .textoRedesHome{
     color:white;
     margin-left:40%;
+    font-size: 10px;
 }
 .footerHome li{
     display: inline-block;
@@ -34,5 +35,5 @@
 .copyrightHome{
     color:white;
     margin-left:40%;
-    
+    font-size: 10px;
 }

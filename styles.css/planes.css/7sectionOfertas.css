@@ -1,50 +1,49 @@
-.sectionPlanes{
-    width: 100%;
+.sectionOfertas{
+    width: 98%;
     background-color: aquamarine;
     border-color:black;
     border-width: 2px;
     border-style: solid;
     border-radius: 50px;
+    margin: 2%;
     display: flex;
-    
 }
-.cajasPlanes{
-    width: 40%;
+.cajasOfertas{
+    width: 90%;
+    height: 650px;
     background-color:rgb(224, 228, 31);
     border-color:black;
     border-width: 2px;
     border-style: solid;
     border-radius: 50px; 
+    margin: 1%;
     text-align: center;
-    margin: 5%;
-    padding: 30px;
 }
-.tituloPrincipalPlanes{
+.tituloPrincipalOfertas{
+    background-color: burlywood;
+    color: white;
+    font-weight: bold;
+    font-size: 2em;
+    margin-top: 10%;
+    text-align: center;
+}
+.numeroOfertas{
     background-color: burlywood;
     color: white;
     font-weight: bold;
     font-size: 2em;
     text-align: center;
 }
-.numeroPlan{
-    background-color: burlywood;
-    color: white;
-    font-weight: bold;
-    font-size: 2em;
-    text-align: center;
-    margin: 0 0 0 0;
-}
-.tituloPlan{
+.tituloOfertas{
     background-color: burlywood;
     color: brown;
     font-weight: bold;
     font-size: 2em;
 }
-.descripcionPlanes{
-    font-size:1em;
+.descripcionOfertas{
+    font-size:2em;
     background-color: burlywood;
     color: blueviolet;
     font-weight: bold;
-    margin: 3% 0 10% 0;
+    margin: 10% 0 10% 0;
 }
-
