@@ -26,8 +26,6 @@
     font-size: 3em;
     font-weight: bold;
     text-align: center;
-    display: flex;
-    margin: -4% 0px 2% 25%;
 }
 
 .bienvenidaHeaderPlanes{
@@ -42,7 +40,8 @@
 .estadoDePaginaPrincipalPlanes{
     /*background-color: aqua;*/
     font-size: 10px;
-    margin: 0px 0px 8% 43%;
+    margin: 0px 0px 4% 0%;
+    text-align: center;
 
     
 }

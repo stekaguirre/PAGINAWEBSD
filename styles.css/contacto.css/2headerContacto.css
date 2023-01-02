@@ -26,8 +26,6 @@
     font-size: 3em;
     font-weight: bold;
     text-align: center;
-    display: flex;
-    margin: -4% 0px 2% 25%;
 }
 
 .bienvenidaHeaderContacto{
@@ -37,12 +35,11 @@
     font-size: 3em;
     font-weight: bold;
     text-align: center;
-    margin: 0 0 2% 0;
 }
 .estadoDePaginaPrincipalContacto{
     /*background-color: aqua;*/
     font-size: 10px;
-    margin: 0px 0px 8% 43%;
+    text-align: center;
 
     
 }

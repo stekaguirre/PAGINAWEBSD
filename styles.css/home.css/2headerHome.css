@@ -18,7 +18,7 @@
 }
 .logoHome{
     color: black;
-    margin: 15px;
+    margin: 1px;
 }
 .tituloHeaderHome{
     /*background-color: wheat;*/
@@ -27,8 +27,7 @@
     font-size: 3em;
     font-weight: bold;
     text-align: center;
-    display: flex;
-    margin: 0% 0px 2% 25%;
+    margin: 0% 0px 2% 0%;
 }
 
 .bienvenidaHeaderHome{
@@ -42,8 +41,9 @@
 }
 .estadoDePaginaPrincipal{
     /*background-color: aqua;*/
+    text-align: center;
     font-size: 10px;
-    margin: 0px 0px 8% 43%;
+    margin: 0px 0px 4% 0%;
 
     
 }

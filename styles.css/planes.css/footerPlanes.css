@@ -17,14 +17,14 @@
     margin-top: 10%;
 }
 .footerPlanes ul{
-    width: 650px;
+    text-align: center;
     /*background-color: rgb(201, 108, 55);*/
     padding: 10px;
-    margin: 00px 0px 0px 38%;
+    
 }
 .textoRedesPlanes{
     color:white;
-    margin-left:40%;
+    text-align: center;
 }
 .footerPlanes li{
     display: inline-block;
@@ -32,6 +32,6 @@
 
 .copyrightPlanes{
     color:white;
-    margin-left:40%;
+    text-align: center;
     
 }

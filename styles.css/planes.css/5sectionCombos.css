@@ -1,12 +1,10 @@
 
 .sectionCombos{
-    width: 96%;
     background-color: aquamarine;
     border-color:black;
     border-width: 2px;
     border-style: solid;
     border-radius: 50px;
-    margin: 2%;
     display: flex;
 }
 .cajasCombos{

@@ -18,14 +18,15 @@
     border-color: transparent;
 }
 .footerHome ul{
-    width: 650px;
+    width: 100%;
     /*background-color: rgb(201, 108, 55);*/
     padding: 10px;
-    margin: 00px 0px 0px 38%;
+    text-align: center;
+    
 }
 .textoRedesHome{
     color:white;
-    margin-left:40%;
+    text-align: center;
     font-size: 10px;
 }
 .footerHome li{
@@ -34,6 +35,6 @@
 
 .copyrightHome{
     color:white;
-    margin-left:40%;
+    text-align: center;
     font-size: 10px;
 }
