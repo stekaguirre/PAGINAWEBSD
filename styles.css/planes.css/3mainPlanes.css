@@ -1,12 +1,7 @@
 .mainPlanes{
     width: 100%;
-    background-color:red;
-    border-color:black;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 50px;
+    
 }
-
 .botonWasap{
     background-color: rgb(12, 219, 40);
     padding: 20px 20px;

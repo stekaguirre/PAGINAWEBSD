@@ -1,10 +1,5 @@
 .footerPlanes{
     width: 100%;
-    background-color:rgb(34, 13, 223);
-    border-color:white;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 50px;
 }
 
 .fondoPlanes{
@@ -14,12 +9,12 @@
     border-style: solid;
     border-radius: 50px;
     border-color: transparent;
-    margin-top: 10%;
+    margin-top: 5%;
 }
 .footerPlanes ul{
     text-align: center;
     /*background-color: rgb(201, 108, 55);*/
-    padding: 10px;
+    padding: 1px;
     
 }
 .textoRedesPlanes{

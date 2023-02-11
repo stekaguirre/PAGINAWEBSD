@@ -1,20 +1,8 @@
 .headerContacto{
     width: 100%;
-    background-color:yellow;
-    border-color:black;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 50px;
-    
 }
 .sectionCajaContacto{
     width: 99%;
-    background-color: rgb(61, 83, 185);
-    border-color:black;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 50px;
-    margin: 0.5% ;
 }
 .logoContacto{
     color: black;
@@ -37,7 +25,6 @@
     text-align: center;
 }
 .estadoDePaginaPrincipalContacto{
-    /*background-color: aqua;*/
     font-size: 10px;
     text-align: center;
 
@@ -45,12 +32,10 @@
 }
 
 .navSectionCajaContacto{
-    /*background-color: blueviolet;*/
     padding: 10px;
     text-align: center;
 }
 .listaNavSectionCajaContacto{
-    /*background-color: aqua;*/
     padding: 23px;
 }
 nav a:hover{

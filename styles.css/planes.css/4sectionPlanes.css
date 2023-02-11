@@ -1,16 +1,10 @@
 .sectionPlanes{
     width: 100%;
-    background-color: aquamarine;
-    border-color:black;
-    border-width: 2px;
-    border-style: solid;
-    border-radius: 50px;
     display: flex;
     
 }
 .cajasPlanes{
     width: 40%;
-    background-color:rgb(224, 228, 31);
     border-color:black;
     border-width: 2px;
     border-style: solid;
@@ -20,31 +14,27 @@
     padding: 30px;
 }
 .tituloPrincipalPlanes{
-    background-color: burlywood;
-    color: white;
+    color: rgb(231, 15, 15);
     font-weight: bold;
     font-size: 2em;
     text-align: center;
     margin-top: 100px;
 }
 .numeroPlan{
-    background-color: burlywood;
-    color: white;
+    color: rgb(12, 26, 230);
     font-weight: bold;
     font-size: 2em;
     text-align: center;
     margin: 0 0 0 0;
 }
 .tituloPlan{
-    background-color: burlywood;
-    color: brown;
+    color: rgb(231, 12, 12);
     font-weight: bold;
     font-size: 2em;
 }
 .descripcionPlanes{
     font-size:1em;
-    background-color: burlywood;
-    color: blueviolet;
+    color: rgb(15, 19, 233);
     font-weight: bold;
     margin: 3% 0 10% 0;
 }
